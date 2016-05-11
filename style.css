@@ -1,0 +1,45 @@
+
+
+.name {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: white;
+	position: fixed;
+	padding: 30px 30px 30px 30px;
+	margin-left: 100px;
+	background-color: #4aaaa5;
+	font-color: white;
+}
+div {
+	max-width: 980px 768px 640px;
+}
+#aboutme {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	margin-top: 200px;
+	color: #4aaaa5;
+	background-color: white;
+	text-align: left;
+}
+#solo {
+	float: left;
+}
+
+.links li{
+	color: #777777;
+	background-color: #ffffff;
+	width: 55px;
+	display: inline;
+}
+
+.w3-ul {
+	width: 100px;
+	height: 100px;
+}
+
+
+.copyright
+{
+    color: white;
+    background-color: #666666;
+    padding-top: 10px
+    padding-top color: #4aaaa5;
+}
