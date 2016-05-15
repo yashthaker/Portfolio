@@ -9,18 +9,56 @@
 	background-color: #4aaaa5;
 	font-color: white;
 }
-div {
-	max-width: 980px 768px 640px;
+
+.nav {
+	float: right;
+	padding-right: 100px;
 }
+
+
+.connect {
+	float: right;
+}
+
+
+.boxed {
+  width: 480px;
+}
+
+#wrap {
+	width: 980px;
+}
+.left {
+		float: left;
+    width: 60%;
+    height: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.right {
+    float: right;
+    width: 40%;
+    height: 200px;
+  }
+#solo {
+ 	float: left;
+ }
+
 #aboutme {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 200px;
 	color: #4aaaa5;
-	background-color: white;
 	text-align: left;
-}
-#solo {
 	float: left;
+	position: relative;
+}
+.wrapper{
+	margin: auto;
+}
+#text {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	float: left;
+	display: inline-block;
 }
 
 .links li{
@@ -32,14 +70,19 @@ div {
 
 .w3-ul {
 	width: 100px;
-	height: 100px;
+	height: 1000px;
 }
 
+.jumbotron {
+	float: right;
+}
 
 .copyright
 {
     color: white;
     background-color: #666666;
-    padding-top: 10px
+    margin-top: 30%;
+    margin-left: 10%;
+    padding-top: 10px;
     padding-top color: #4aaaa5;
 }
